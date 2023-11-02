@@ -1,2 +1,2 @@
-theme: minima  
+theme: Slate  
 An initial test repo
